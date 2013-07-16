@@ -1,0 +1,208 @@
+﻿Url: /Pages/Demo/TestAuthorize/LoginUser.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/LoginUser.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/Fish.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/Fish.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/RightNo23.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/RightNo23.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/Fish.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/Fish.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/RightNo23.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/RightNo23.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/Fish.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/Fish.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/TestAuthorize/Fish.aspx
+System.Web.HttpException: 很抱歉，您没有合适的权限访问该资源：/Pages/Demo/TestAuthorize/Fish.aspx
+   在 MyMVC.ExceptionHelper.Throw403Exception(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Exception\ExceptionHelper.cs:行号 16
+   在 MyMVC.ActionExecutor.ExecuteAction(HttpContext context, InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Action\ActionExecutor.cs:行号 80
+   在 MyMVC.ActionHandler.ProcessRequest(HttpContext context) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 26
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /mvc/test/Customers.html?page=4
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyMVC.ActionHandler.CreateHandler(InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 37
+   在 MyMVC.MvcPageHandlerFactory.System.Web.IHttpHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String physicalPath) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\MvcPageHandlerFactory.cs:行号 52
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /mvc/test/Customers.html?page=4
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyMVC.ActionHandler.CreateHandler(InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 37
+   在 MyMVC.MvcPageHandlerFactory.System.Web.IHttpHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String physicalPath) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\MvcPageHandlerFactory.cs:行号 52
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /mvc/test/aa/bb/cc/Customers.html?page=4
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 MyMVC.ActionHandler.CreateHandler(InvokeInfo vkInfo) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\ActionHandler.cs:行号 37
+   在 MyMVC.MvcPageHandlerFactory.System.Web.IHttpHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String physicalPath) 位置 H:\ProjectFiles\MyBlogs_src\MyMVC\MyMVC\Pipeline\MvcPageHandlerFactory.cs:行号 57
+   在 System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+Url: /Pages/Demo/Test_IIS_time_taken.ashx
+System.Web.HttpException: 远程主机关闭了连接。错误代码是 0x800704CD。
+   在 System.Web.Hosting.IIS7WorkerRequest.RaiseCommunicationError(Int32 result, Boolean throwOnDisconnect)
+   在 System.Web.Hosting.IIS7WorkerRequest.ExplicitFlush()
+   在 System.Web.HttpResponse.Flush(Boolean finalFlush)
+   在 System.Web.HttpResponse.Flush()
+   在 Test_IIS_time_taken.ProcessRequest(HttpContext context) 位置 h:\ProjectFiles\MyMVC\DemoWebSite1\Pages\Demo\Test_IIS_time_taken.ashx:行号 20
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+

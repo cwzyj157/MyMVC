@@ -1,0 +1,147 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMVC", "MyMVC\MyMVC.csproj", "{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DemoWebSite1", "DemoWebSite1\", "{550E6C81-217F-4A3C-8396-21AAA03642B4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}|MyMVC.dll;{09427D35-71F9-489B-862B-35565391CF27}|WebSiteCommonLib.dll;{34805986-B02B-4B85-BAC3-A20A65B5CFCE}|WebSiteModel.dll;{5824A08A-C178-41C6-91D6-35DEDAE5A455}|DemoController.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/WebSite1"
+		Debug.AspNetCompiler.PhysicalPath = "DemoWebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebSite1"
+		Release.AspNetCompiler.PhysicalPath = "DemoWebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "34743"
+		VWDDynamicPort = "false"
+		VWDVirtualPath = "/"
+		StartServerOnDebug = "false"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteController", "WebSiteController\WebSiteController.csproj", "{5824A08A-C178-41C6-91D6-35DEDAE5A455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteModel", "WebSiteModel\WebSiteModel.csproj", "{34805986-B02B-4B85-BAC3-A20A65B5CFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSiteCommonLib", "WebSiteCommonLib\WebSiteCommonLib.csproj", "{09427D35-71F9-489B-862B-35565391CF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestContextEnvironment", "TestContextEnvironment\TestContextEnvironment.csproj", "{B988862E-410C-43AB-AB09-24ACF17A6012}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "说明文件", "说明文件", "{CBD9F44F-CD0F-460D-B56D-D61C74251E9D}"
+	ProjectSection(SolutionItems) = preProject
+		MyMVC\MyMVC版本更新日志.txt = MyMVC\MyMVC版本更新日志.txt
+		下载地址.txt = 下载地址.txt
+		如何在IIS中运行示例.txt = 如何在IIS中运行示例.txt
+		对SQLSERVER的支持.txt = 对SQLSERVER的支持.txt
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AjaxPK_WebSite", "AjaxPK_WebSite\", "{C33D8408-D757-4E1A-921B-2DF721C07CEE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}|MyMVC.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/AjaxPK_WebSite"
+		Debug.AspNetCompiler.PhysicalPath = "AjaxPK_WebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AjaxPK_WebSite\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AjaxPK_WebSite"
+		Release.AspNetCompiler.PhysicalPath = "AjaxPK_WebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AjaxPK_WebSite\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "18798"
+		VWDVirtualPath = "/"
+		StartServerOnDebug = "false"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyMVC-DEMO", "MyMVC-DEMO", "{8793939D-E536-42B0-AC80-9141A2CA2AA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{C70A7C38-8F55-4F3F-ABD4-3A9A6518F20F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BigPipeDEMO", "BigPipeDEMO\", "{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}|MyMVC.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/BigPipeDEMO"
+		Debug.AspNetCompiler.PhysicalPath = "BigPipeDEMO\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\BigPipeDEMO\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/BigPipeDEMO"
+		Release.AspNetCompiler.PhysicalPath = "BigPipeDEMO\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\BigPipeDEMO\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1587"
+		VWDVirtualPath = "/"
+		StartServerOnDebug = "false"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0151E882-2DE2-44BF-BCF0-B7D10B60BE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550E6C81-217F-4A3C-8396-21AAA03642B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550E6C81-217F-4A3C-8396-21AAA03642B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550E6C81-217F-4A3C-8396-21AAA03642B4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{550E6C81-217F-4A3C-8396-21AAA03642B4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5824A08A-C178-41C6-91D6-35DEDAE5A455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5824A08A-C178-41C6-91D6-35DEDAE5A455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5824A08A-C178-41C6-91D6-35DEDAE5A455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5824A08A-C178-41C6-91D6-35DEDAE5A455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34805986-B02B-4B85-BAC3-A20A65B5CFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34805986-B02B-4B85-BAC3-A20A65B5CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34805986-B02B-4B85-BAC3-A20A65B5CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34805986-B02B-4B85-BAC3-A20A65B5CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09427D35-71F9-489B-862B-35565391CF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09427D35-71F9-489B-862B-35565391CF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09427D35-71F9-489B-862B-35565391CF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09427D35-71F9-489B-862B-35565391CF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B988862E-410C-43AB-AB09-24ACF17A6012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B988862E-410C-43AB-AB09-24ACF17A6012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B988862E-410C-43AB-AB09-24ACF17A6012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B988862E-410C-43AB-AB09-24ACF17A6012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33D8408-D757-4E1A-921B-2DF721C07CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33D8408-D757-4E1A-921B-2DF721C07CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33D8408-D757-4E1A-921B-2DF721C07CEE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33D8408-D757-4E1A-921B-2DF721C07CEE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5824A08A-C178-41C6-91D6-35DEDAE5A455} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{34805986-B02B-4B85-BAC3-A20A65B5CFCE} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{09427D35-71F9-489B-862B-35565391CF27} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{C33D8408-D757-4E1A-921B-2DF721C07CEE} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{550E6C81-217F-4A3C-8396-21AAA03642B4} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{F58A54FA-72C3-4FFF-B80B-EA392DC75EF1} = {8793939D-E536-42B0-AC80-9141A2CA2AA3}
+		{B988862E-410C-43AB-AB09-24ACF17A6012} = {C70A7C38-8F55-4F3F-ABD4-3A9A6518F20F}
+	EndGlobalSection
+EndGlobal

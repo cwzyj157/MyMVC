@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" Inherits="MyMVC.MyBaseMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%= string.Concat(AppHelper.AppName, "-", this.Page.Title, " - ", 
+           	"http://www.cnblogs.com/fish-li", " - ", WebSiteController.StyleHelper.PageStyle)%></title>
+    <link type="text/css" rel="Stylesheet" href="/js/jquery/jquery-easyui-1.2/themes/default/easyui.css" />
+    <link type="text/css" rel="Stylesheet" href="/js/jquery/jquery-easyui-1.2/themes/icon.css" />
+    <%= UiHelper.RefCssFileHtml("/css/StyleSheet.css")%>
+    
+    <script type="text/javascript" src="/js/jquery/jquery-1.4.4.min.js"></script>    
+    <script type="text/javascript" src="/js/jquery/jquery-easyui-1.2/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery-easyui-1.2/easyui-lang-zh_CN.js"></script>    
+    <script type="text/javascript" src="/js/jquery/jquery.form.js"></script>
+
+    <%= UiHelper.RefJsFileHtml("/js/MyPage/fish.js")%>
+    <%= UiHelper.RefJsFileHtml("/js/MyPage/dialog.js")%>
+    <%= UiHelper.RefJsFileHtml("/js/MyPage/SetStyle.js")%>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+<div id="topBanner">
+	<fish:PageHeader runat="server" ID="PageHeader1" />
+</div>
+
+<div id="contentBody">
+<asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+</div>
+
+
+<fish:MainMenu runat="server" ID="MainMenu1" />
+
+
+<p style="height: 53px" id="divBottomBlank"></p>
+
+
+</body>
+</html>

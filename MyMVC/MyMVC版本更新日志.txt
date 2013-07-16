@@ -1,0 +1,56 @@
+﻿
+MyMVC 版本更新日志
+------------------------------------------
+说明：版本以文件版本为准。
+
+1.3.0.616
+------------------------------------------
+1. 增加ServiceHandlerFactory，功能与AjaxHandlerFactory类似，但是URL格式更灵活。
+2. 优化了Controller的查找过程。
+
+
+1.3.0.511
+------------------------------------------
+1. 增加对虚拟目录的支持。
+
+
+1.3.0.413
+------------------------------------------
+1. 增加了ResponseWriter工具类，用于快速实现BigPipe
+
+
+1.3.0.330
+------------------------------------------
+1. 增加JSON传入格式的支持，请参考：TestSerializer.htm
+2. 增加XML传入格式的支持，请参考：TestSerializer.htm
+3. 增加XML输出格式的支持，XmlResult
+4. 增加GzipModule，允许客户端要求GZIP响应，xhr.setRequestHeader("X-Gzip-Respond", "1");
+
+
+1.3.0.211
+------------------------------------------
+1. 优化反射性能，增加OptimizeReflection目录
+
+
+1.2.0.120
+------------------------------------------
+1. 增加HttpValueIgnoreAttribute
+2. ActionAttribute增加 Verb 属性，用于区分重载方法。
+3. 增加VoidType，用于区分同名的Action重载方法。
+
+
+1.2.0.112
+------------------------------------------
+1. AuthorizeAttribute允许继承，可以重载AuthenticateRequest实现自己的验证逻辑。请参考CheckRightAttribute
+2. 新增UiHelper，将引用JS, CSS文件的文件移入MyMVC
+3. 增加SetOutputCacheModule，请参考http://www.cnblogs.com/fish-li/archive/2012/12/23/2830301.html
+4. 增加XmlHelper，满足常用的XML序列化，反序列化要求。
+5. 支持string[]的参数数据类型
+6. 支持GUID的参数数据类型
+7. 支持Enum参数数据类型
+8. 增加Action名字自动匹配功能，请参考TestAutoFindAction.htm
+
+
+1.0.0.0
+------------------------------------------
+初始版本
